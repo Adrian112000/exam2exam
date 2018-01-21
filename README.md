@@ -1,2 +1,3 @@
 # exam2exam
-Find some resources for Exam. Compare and analyzing the Code .
+HI Everybody! I m to exchange some codes of different Patterns!
+The goal it schould be to prepare me for exam!
